@@ -1,4 +1,4 @@
-## Inventory Analysis
+## Inventory Analysis: Tracking Sales Performance
 Hammerhead hardware is a general accessories store with a global presence. Management of HH has requested for our advice on possible improvements in inventory management and purchases.
 This dashboard tracks the year to date sales of all items sold by Hammerhead Hardware, as well as inventory levels in their warehouse located in New Jersey, USA. We will introduced some metrics which HH can use to determine the products to prioritise in the next stock replenishment cycle.
 
